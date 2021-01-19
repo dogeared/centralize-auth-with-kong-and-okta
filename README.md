@@ -1,6 +1,6 @@
 ## Centralize Auth with Kong & Okta
 
-* [Presentation](CentralizeAuthWithKongAndOkta.pdf)
+* [Presentation](CentralizeAuthWithKongOkta.pdf)
 * [Centralize Auth with Kong & Okta video](https://developer.okta.com/blog/2017/12/04/use-kong-gateway-to-centralize-authentication)
 * [Kong Community Edition](https://konghq.com/get-started/#install)
 * [Free Okta Developer Account](https://developer.okta.com/signup)
